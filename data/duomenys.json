@@ -1,0 +1,62 @@
+[
+  {
+    "vardas": "Antanas",
+    "amzius": 25,
+    "miestas": "Vilnius",
+    "pazymiai": [
+      10,
+      9,
+      8
+    ]
+  },
+  {
+    "vardas": "Jonas",
+    "amzius": 30,
+    "miestas": "Kaunas",
+    "pazymiai": [
+      7,
+      8,
+      9
+    ]
+  },
+  {
+    "vardas": "Petras",
+    "amzius": 35,
+    "miestas": "Siauliai",
+    "pazymiai": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "vardas": "Petras",
+    "amzius": 35,
+    "miestas": "Siauliai",
+    "pazymiai": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "vardas": "Petras",
+    "amzius": 35,
+    "miestas": "Siauliai",
+    "pazymiai": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "vardas": "Petras",
+    "amzius": 35,
+    "miestas": "Siauliai",
+    "pazymiai": [
+      6,
+      7,
+      8
+    ]
+  }
+]
